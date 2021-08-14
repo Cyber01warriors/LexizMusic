@@ -185,14 +185,14 @@ You can use [nssm](https://nssm.cc/usage) to install the bot as service on windo
 Make sure to edit the start and restart bats to your needs. 
 Note: the restart bat requires that User account control be disabled.
 
-For queries or any issues regarding the bot please open an issue ticket or visit us at [Support](https://t.m/HEROGAMERS1)
+For queries or any issues regarding the bot please open an issue ticket or visit us at [Support](https://t.m/viharasenindu)
 ## How to setup on Heroku 
 For starters click on this button 
 </details>  
 
 ## Credits
-The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
+The bot is based on the original work done by [PaulSonOfLars](https://github.com/viharasenindu)
 
 
 
-## [OWNER HERO](http://t.me/HEROGAMERS1)
+## [OWNER HERO](http://t.me/viharasenindu)
