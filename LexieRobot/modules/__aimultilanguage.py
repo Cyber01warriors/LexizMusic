@@ -39,7 +39,7 @@ async def fetch(url):
         return
 
 
-layla_chats = []
+lexie_chats = []
 en_chats = []
 
 @lexie.on_message(
@@ -47,7 +47,7 @@ en_chats = []
 )
 @admins_only
 async def hmm(_, message):
-    global layla_chats
+    global lexie_chats
     if len(message.command) != 2:
         await message.reply_text(
             "I only recognize `/chatbot on` and /chatbot `off only`"
@@ -202,7 +202,7 @@ async def hmm(client, message):
             return
 
 
-@layla.on_message(
+@lexie.on_message(
     filters.text & filters.private & ~filters.edited & filters.reply & ~filters.bot
 )
 async def inuka(client, message):
